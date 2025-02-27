@@ -12,7 +12,7 @@ Bu proje, Adana'daki hava kirliliği verilerini analiz etmek, görselleştirmek 
 
 🤖 Makine öğrenimi modelleri ile tahminleme
 
-⚙️ Kullanılan Teknolojiler
+        ⚙️ Kullanılan Teknolojiler
 
 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
